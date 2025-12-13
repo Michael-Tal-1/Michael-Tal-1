@@ -32,11 +32,6 @@ Comprehensive SaaS platform for driving schools with real-time scheduling and pa
 - Student management, scheduling, and payment processing
 - **Stack:** Python, Django, PostgreSQL, Docker, AWS
 
-### Developer Tools
-A collection of utilities and tools for developers.
-- **Live:** [tools.michaeltal.dev](https://tools.michaeltal.dev)
-- **Stack:** JavaScript, Nuxt, Vue
-
 ---
 
 ## Tech Stack
@@ -46,7 +41,6 @@ A collection of utilities and tools for developers.
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -61,14 +55,12 @@ A collection of utilities and tools for developers.
 ### Frontend
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
 ## Connect
 
 - **Website:** [michaeltal.dev](https://michaeltal.dev)
-- **Tools:** [tools.michaeltal.dev](https://tools.michaeltal.dev)
 - **LinkedIn:** [linkedin.com/in/michael-tal-/](https://www.linkedin.com/in/michael-tal-/)
 - **Email:** Available via [contact form](https://michaeltal.dev#contact)
 
