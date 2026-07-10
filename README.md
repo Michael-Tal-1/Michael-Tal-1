@@ -1,73 +1,59 @@
 # Michael Tal
 
-**Software Engineer | Backend Developer | API Architect**
+**Software Engineer — Backend (Go, Python)**
 
-Building secure, scalable systems with technical depth in backend architecture and security infrastructure.
+Backend engineer with 4+ years of commercial experience building APIs, data pipelines, and multi-tenant platforms in Go and Python. Currently focused on backend services for a security platform handling large-scale threat detection, alongside contract work building SaaS products from the ground up.
 
 ---
 
 ## About Me
 
-I specialize in designing and implementing enterprise-grade backend systems with a strong focus on security and scalability. My work involves processing millions of operations daily through distributed architectures, multi-tenant platforms, and microservices ecosystems.
+I work across the stack but specialize in backend architecture — designing APIs, data pipelines, and services that hold up under real load. Most of my recent work has been in security infrastructure: building services that process large volumes of data daily and support automated detection and response systems.
 
-- Building systems that handle millions of security events and risks daily
-- Architecting multi-tenant SaaS platforms with robust data isolation
-- Designing APIs and microservices for high-availability environments
-- Implementing automated threat detection and real-time risk scoring systems
+I've also spent time building SaaS products end-to-end, from database design to deployment, working directly with clients to shape features around real business needs.
 
----
-
-## Featured Projects
-
-### Multi-Tenant Security Architecture Platform
-Enterprise-grade security platform analyzing and processing millions of risks daily.
-- Processing millions of security events with automated threat detection
-- Multi-tenant architecture with complete data isolation
-- Real-time risk scoring and prioritization engine
-- **Stack:** Python, Go, FastAPI, PostgreSQL, Microservices, AWS, Kubernetes
-
-### Multi-Tenant Driving School SaaS
-Comprehensive SaaS platform for driving schools with real-time scheduling and payment processing.
-- Scalable architecture supporting multiple organizations
-- Student management, scheduling, and payment processing
-- **Stack:** Python, Django, PostgreSQL, Docker, AWS
+Outside of client work, I explore new tools and patterns — currently spending time with Kubernetes, Kafka, and applied AI/ML, and I've completed Stanford's Algorithms and Machine Learning specializations on Coursera.
 
 ---
 
 ## Tech Stack
 
-### Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Languages**
+
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### DevOps & Infrastructure
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### Frontend
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+**Backend & Data**
+
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+**DevOps & Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+**Frontend**
+
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Also Exploring**
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+
 ---
 
-## Connect
+## Contact
 
 - **Website:** [michaeltal.dev](https://michaeltal.dev)
-- **LinkedIn:** [linkedin.com/in/michael-tal-/](https://www.linkedin.com/in/michael-tal-/)
-- **Email:** Available via [contact form](https://michaeltal.dev#contact)
+- **Email:** [me@michaeltal.dev](mailto:me@michaeltal.dev)
 
----
-
-<div align="center">
-
-*Building systems that scale, securing infrastructure that matters.*
-
-</div>
+For full experience and background, request a CV.
