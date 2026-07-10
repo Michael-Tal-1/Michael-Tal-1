@@ -54,6 +54,6 @@ Outside of client work, I explore new tools and patterns — currently spending 
 ## Contact
 
 - **Website:** [michaeltal.dev](https://michaeltal.dev)
-- **Email:** [me@michaeltal.dev](mailto:me@michaeltal.dev)
+- **Email:** I kindly ask you to fill out the form on the website above.
 
 For full experience and background, request a CV.
